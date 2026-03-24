@@ -7,3 +7,15 @@ __pycache__/
 
 .vscode/
 .idea/
+
+*.tlog
+*.tlog.raw
+
+logs/
+*.bin
+*.log
+
+*.state
+*.log
+
+eeprom.bin
